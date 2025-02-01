@@ -6,8 +6,12 @@ h1{
 	height: 100%;
 }
 #submit{
-	background: skyblue;
-	border-radius: 5px
+	color: white;
+	border: none;
+	widh: 70px;
+	height: 30px;
+	background: blue;
+	border-radius: 7px;
 	padding: auto;
 	margin-top: 20px;
 }
