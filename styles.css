@@ -33,5 +33,6 @@ td, th {
 .delete{
 	background: red;
 	color: white;
+	border: none;
 }
 
